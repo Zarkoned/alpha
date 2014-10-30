@@ -95,14 +95,50 @@ textarea {
    ========================================================================== */
 
 #wrapper {
+	background-color:green;
 	width: 960px;
 	margin-left:auto;
 	margin-right:auto;
-	font-size: 160px;
+	font-size: 20px;
 	
 }
 
+#img1{
+	height:75px;
+}
 
+
+#logo{
+	background-color:#F02010;
+	height:75px;
+	
+}
+
+#tabs{
+	background-color:blue;
+	height:58px;
+	
+}
+
+#heading{
+	background-color:#234284;
+	height:93px;
+}
+
+#content{
+	background-color:purple;
+	width:593px;
+	
+	float:left;
+}
+
+
+#sidebar{
+	background-color:red;
+	width:367px;
+	float:left;
+
+}
 
 
 
