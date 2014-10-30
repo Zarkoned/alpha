@@ -95,7 +95,7 @@ textarea {
    ========================================================================== */
 
 #wrapper {
-	background-color:green;
+	background-color:white;
 	width: 960px;
 	margin-left:auto;
 	margin-right:auto;
@@ -109,35 +109,44 @@ textarea {
 
 
 #logo{
-	background-color:#F02010;
+	background-color:white;
 	height:75px;
-	
+	line-height:75px;	
 }
 
 #tabs{
-	background-color:blue;
+	background-color:white;
 	height:58px;
-	
+	display:inline;
+	line-height:58px;
 }
 
+#tabs li{
+	display:inline;
+
+}
+
+
 #heading{
-	background-color:#234284;
+	background-color:white;
 	height:93px;
 }
 
 #content{
-	background-color:purple;
+	background-color:white;
 	width:593px;
-	
+	text-align: justify;
 	float:left;
 }
 
 
 #sidebar{
-	background-color:red;
-	width:367px;
+	border:1px black;
+	background-color:white;
+	width:331px;
 	float:left;
-
+	padding:10px;
+	margin:8px;
 }
 
 
