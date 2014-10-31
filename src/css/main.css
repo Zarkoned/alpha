@@ -109,13 +109,14 @@ textarea {
 
 
 #logo{
-	background-color:white;
+	 background:url(../img/finally.gif);)
+	background-size:75px Auto;
 	height:75px;
 	line-height:75px;	
 }
 
 #tabs{
-	background-color:white;
+
 	height:58px;
 	display:inline;
 	line-height:58px;
